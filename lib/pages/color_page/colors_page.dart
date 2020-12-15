@@ -15,7 +15,7 @@ class ColorsPage extends StatelessWidget {
                 color: provider.color,
                 child: Center(
                     child: Text(
-                  'Привет',
+                  'Hey there',
                   style: TextStyle(fontSize: 50.0),
                 )),
               )),
